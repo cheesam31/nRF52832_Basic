@@ -16,4 +16,4 @@ Nordic SDK의 기본 사용법 및 nRF52832 SoC 의 기본 사용법을 익힙�
 
 ### Contributors
 
-<img src="https://media.vlpt.us/images/velog/profile/9aa07f66-5fcd-41f4-84f2-91d73afcec28/green%20favicon.png " width="" height="24">  [이근혁](https://velog.io/@cheesam31) (cheesam31@gmail.com)
+[이근혁](https://velog.io/@cheesam31) (cheesam31@gmail.com)
