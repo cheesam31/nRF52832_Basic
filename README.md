@@ -1,5 +1,5 @@
 # nRF52832 Basic usage
-![Nordic_SDK](https://img.shields.io/badge/Nordic%20SDK-17.0.2-blue?style=flat) ![Segger_Embedded_Studio](https://img.shields.io/badge/Segger%20Embedded%20Studio-5.42-yellow?style=flat)
+![Nordic_SDK](https://img.shields.io/badge/Nordic%20SDK-17.0.2-blue?style=flat) ![Segger_Embedded_Studio](https://img.shields.io/badge/Segger%20Embedded%20Studio-5.42-yellow?style=flat) ![GCC ARM](https://img.shields.io/badge/gcc--arm-10--2020--q4--major-brightgreen)
 
 ### What is the Project
 
